@@ -1,4 +1,4 @@
-<h1 align="center"> BUDGET TRACKER </h1> 
+<h1 align="center"> EMPLOYEE DIRECTORY </h1> 
 
 <div align="center"> 
 
