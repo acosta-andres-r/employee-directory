@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?) ![Language count](https://img.shields.io/github/languages/count/acosta-andres-r/workout-tracker) ![Top Language](https://img.shields.io/github/languages/top/acosta-andres-r/employee-directory)
+![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?) ![Language count](https://img.shields.io/github/languages/count/acosta-andres-r/employee-directory) ![Top Language](https://img.shields.io/github/languages/top/acosta-andres-r/employee-directory)
 </div>
   
 ### Description
